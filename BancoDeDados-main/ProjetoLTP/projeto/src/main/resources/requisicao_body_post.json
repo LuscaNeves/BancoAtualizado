@@ -1,0 +1,24 @@
+{
+    "LerHistoria": {
+      "imagem": "link",
+      "tipo": "b"
+    },
+    "Publicar":[
+      {
+        "descricao":"Anciedade"
+      },
+      {
+        "descricao":"Como vencer a anciedade"
+      }
+    ],
+    "PublicarMuitosParaMuitos":[
+      {
+        "descricao":"romance"
+      },
+      {
+        "descricao":"clássicos"
+      }
+    ],
+    "titulo": "Como ter um relacionamento Saudavel",
+    "descricao": "Artigo sobre relacionamento"
+  }
